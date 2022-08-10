@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b09ff71c.css",
+    "main.js": "/static/js/main.553c8480.js",
+    "static/js/787.3d7d2164.chunk.js": "/static/js/787.3d7d2164.chunk.js",
+    "static/media/katty.jpg": "/static/media/katty.92bdfe3679f23e002f9e.jpg",
+    "static/media/milla.jpg": "/static/media/milla.6ccdb98b2189bad609d9.jpg",
+    "static/media/kristina.jpg": "/static/media/kristina.2d6047a463e6b404ce2a.jpg",
+    "static/media/olga.jpg": "/static/media/olga.a0ad8e9ffaf60600b635.jpg",
+    "static/media/alisa.jpg": "/static/media/alisa.21b4f4a3a033412bc857.jpg",
+    "static/media/juli.jpg": "/static/media/juli.f551bfb6c3815a904ca2.jpg",
+    "static/media/onlyfans.png": "/static/media/onlyfans.6d4c36565b0d74f4ea77.png",
+    "static/media/instagram.png": "/static/media/instagram.e4d90ce876f77c73bf26.png",
+    "index.html": "/index.html",
+    "main.b09ff71c.css.map": "/static/css/main.b09ff71c.css.map",
+    "main.553c8480.js.map": "/static/js/main.553c8480.js.map",
+    "787.3d7d2164.chunk.js.map": "/static/js/787.3d7d2164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b09ff71c.css",
+    "static/js/main.553c8480.js"
+  ]
+}
